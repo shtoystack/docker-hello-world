@@ -5,7 +5,7 @@
 - [Node.js](https://nodejs.org/en/download/)
 - [Yarn](https://yarnpkg.com/en/docs/install)
 
-## Install dependencies
+## Install dependenciess
 
 ```bash
 $ yarn install
